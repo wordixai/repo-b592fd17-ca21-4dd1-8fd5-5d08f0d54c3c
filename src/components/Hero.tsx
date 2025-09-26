@@ -6,7 +6,7 @@ export function Hero() {
     <section className="relative pt-32 pb-20 overflow-hidden">
       {/* Background Elements */}
       <div className="absolute inset-0 mesh-gradient opacity-40"></div>
-      <div className="absolute inset-0 hero-pattern"></div>
+      <div className="absolute inset-0 hero-pattern"></div
       
       {/* Floating Elements */}
       <div className="absolute top-20 left-10 w-20 h-20 bg-gradient-to-br from-violet-400 to-purple-400 rounded-full opacity-20 floating-animation"></div>
