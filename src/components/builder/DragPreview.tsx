@@ -13,7 +13,7 @@ export function DragPreview({ element, position }: DragPreviewProps) {
         return (
           <div className="p-2 bg-gray-100 border rounded text-sm">
             📝 {element.props.content
-          </div>
+          </div
         );
       
       case 'button':
